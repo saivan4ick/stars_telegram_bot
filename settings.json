@@ -1,0 +1,7 @@
+{
+  "ADMINS": [
+    /*айди админа в Telegram*/
+  ],
+  "PASSCODE_MIN_PRICE": 2,
+  "AUTO_DELIVERY": true
+}
