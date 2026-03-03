@@ -8,4 +8,4 @@ updates:
   - package-ecosystem: "pip"
     directory: "/" 
     schedule:
-      interval: "weekl"
+      interval: "weekly"
